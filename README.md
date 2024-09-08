@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @Alex-Hardin!
 - 👀 I’m interested in Software and Game Development
-- 🌱 I’m currently learning Python through Boot.dev and start a Bachelor in Computer Science in October
+- 🌱 I’m currently learning back-end development through Boot.dev and start a Bachelor in Computer Science in October
 
 
 <!---
